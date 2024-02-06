@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ShiftsLoggerAPI</name>
+    </assembly>
+    <members>
+        <member name="M:ShiftsLoggerAPI.Controllers.ShiftsController.GetShifts">
+            <response code="200">Returns OK when found</response>
+        </member>
+        <member name="M:ShiftsLoggerAPI.Controllers.ShiftsController.GetShift(System.Int64)">
+            <response code="200">Returns OK when found</response>
+            <response code="404">Returns 404 Response when {id} not found</response>
+        </member>
+        <member name="M:ShiftsLoggerAPI.Controllers.ShiftsController.PutShift(System.Int64,ShiftsLoggerAPI.Models.Shift)">
+            <response code="204">Returns No Content when Updated</response>
+            <response code="404">Returns when Shift does not exist</response>
+            <response code="400">Returns when ShiftId being updated does not match the posted data</response>
+        </member>
+        <member name="M:ShiftsLoggerAPI.Controllers.ShiftsController.PostShift(ShiftsLoggerAPI.Models.Shift)">
+            <response code="201">Returns the newly created item</response>
+        </member>
+        <member name="M:ShiftsLoggerAPI.Controllers.ShiftsController.DeleteShift(System.Int64)">
+            <response code="204">Returns No Content when deleted</response>
+            <response code="404">Returns shift is not found</response>
+        </member>
+        <member name="T:ShiftsLoggerAPI.Migrations.Initialise">
+            <inheritdoc />
+        </member>
+        <member name="M:ShiftsLoggerAPI.Migrations.Initialise.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ShiftsLoggerAPI.Migrations.Initialise.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ShiftsLoggerAPI.Migrations.Initialise.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ShiftsLoggerAPI.Migrations.AddDuration">
+            <inheritdoc />
+        </member>
+        <member name="M:ShiftsLoggerAPI.Migrations.AddDuration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ShiftsLoggerAPI.Migrations.AddDuration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ShiftsLoggerAPI.Migrations.AddDuration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ShiftsLoggerAPI.Migrations.DefaultComment">
+            <inheritdoc />
+        </member>
+        <member name="M:ShiftsLoggerAPI.Migrations.DefaultComment.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ShiftsLoggerAPI.Migrations.DefaultComment.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ShiftsLoggerAPI.Migrations.DefaultComment.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ShiftsLoggerAPI.Migrations.RemoveDuration">
+            <inheritdoc />
+        </member>
+        <member name="M:ShiftsLoggerAPI.Migrations.RemoveDuration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ShiftsLoggerAPI.Migrations.RemoveDuration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ShiftsLoggerAPI.Migrations.RemoveDuration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
