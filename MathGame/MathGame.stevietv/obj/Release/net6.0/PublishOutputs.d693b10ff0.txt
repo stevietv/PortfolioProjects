@@ -1,0 +1,5 @@
+E:\Development\study\CSharpAcademy\FinalProjects\TestProgram\MathGame.stevietv.exe
+E:\Development\study\CSharpAcademy\FinalProjects\TestProgram\MathGame.stevietv.dll
+E:\Development\study\CSharpAcademy\FinalProjects\TestProgram\MathGame.stevietv.deps.json
+E:\Development\study\CSharpAcademy\FinalProjects\TestProgram\MathGame.stevietv.runtimeconfig.json
+E:\Development\study\CSharpAcademy\FinalProjects\TestProgram\MathGame.stevietv.pdb
