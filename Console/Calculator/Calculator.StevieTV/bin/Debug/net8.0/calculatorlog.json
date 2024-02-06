@@ -1,0 +1,11 @@
+{
+  "Operations": [
+    {
+      "Sequence": 1,
+      "Operand1": 2.0,
+      "Operand2": 3.0,
+      "Operation": "Divide",
+      "Result": 0.6666666666666666
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+E:\Development\study\CSharpAcademy\CodeReviews.Console.Calculator\Calculator.StevieTV\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.deps.json
+E:\Development\study\CSharpAcademy\CodeReviews.Console.Calculator\Calculator.StevieTV\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.dll
+E:\Development\study\CSharpAcademy\CodeReviews.Console.Calculator\Calculator.StevieTV\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.pdb
+E:\Development\study\CSharpAcademy\CodeReviews.Console.Calculator\Calculator.StevieTV\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\study\CSharpAcademy\CodeReviews.Console.Calculator\Calculator.StevieTV\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfoInputs.cache
+E:\Development\study\CSharpAcademy\CodeReviews.Console.Calculator\Calculator.StevieTV\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfo.cs
+E:\Development\study\CSharpAcademy\CodeReviews.Console.Calculator\Calculator.StevieTV\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+E:\Development\study\CSharpAcademy\CodeReviews.Console.Calculator\Calculator.StevieTV\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.sourcelink.json
+E:\Development\study\CSharpAcademy\CodeReviews.Console.Calculator\Calculator.StevieTV\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.dll
+E:\Development\study\CSharpAcademy\CodeReviews.Console.Calculator\Calculator.StevieTV\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
+E:\Development\study\CSharpAcademy\CodeReviews.Console.Calculator\Calculator.StevieTV\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
+E:\Development\study\CSharpAcademy\CodeReviews.Console.Calculator\Calculator.StevieTV\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll
+E:\Development\study\CSharpAcademy\CodeReviews.Console.Calculator\Calculator.StevieTV\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.AssemblyReference.cache
